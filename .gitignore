@@ -1,0 +1,7 @@
+/.devcontainer
+/.vscode
+/build
+/sdkconfig
+/sdkconfig.ci
+/sdkconfig.ci.esp32c2_xtal26m
+/sdkconfig.old
